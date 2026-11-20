@@ -2,7 +2,7 @@
 
 TP de Amy Lambert
 
-note: L'architecture utilisé pour les questions a été créé en amont:
+note: L'architecture utilisé pour les questions a été créé en amont avec les données du début du cours:
 
 Schéma de référence utilisé dans tout le cours
 Toutes les requêtes de ce support s'appuient sur le schéma e-commerce et
