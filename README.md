@@ -1,5 +1,6 @@
 # sql_avance
 
+**A corriger**
 TP de Amy Lambert
 
 note: L'architecture utilisé pour les questions a été créé en amont avec les données du début du cours:
